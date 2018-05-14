@@ -8,6 +8,7 @@
     "launch-ios": "react-native run-ios --simulator \"iPhone 8 (11.0)\""
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "expo": "^27.0.1",
     "react": "16.3.1",
     "react-native": "0.55.4"
