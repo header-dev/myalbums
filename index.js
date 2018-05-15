@@ -10,4 +10,6 @@ const App = () => (
     </View>
     );
 
-AppRegistry.registerComponent('main',() => App);
+// AppRegistry.registerComponent('main',() => App);
+
+AppRegistry.registerComponent('myalbums',() => App);
